@@ -1,6 +1,6 @@
 # list-drag-and-drop
 
-
+In your terminal
 
 Please type this command to clone this file to your local.
 
